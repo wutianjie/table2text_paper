@@ -4,9 +4,9 @@
 
 #### 1、RotoWire
 
-EMNLP2017_Challenges in Data-to-document Generation  
+EMNLP2017_Challenges in Data-to-document Generation  [Paper](https://arxiv.org/pdf/1707.08052.pdf)  
 
-[Paper](https://arxiv.org/pdf/1707.08052.pdf)   [RotoWire下载](https://github.com/harvardnlp/boxscore-data)
+[RotoWire下载](https://github.com/harvardnlp/boxscore-data)
 
 输入：一场NBA比赛的数据
 
@@ -16,15 +16,15 @@ EMNLP2017_Challenges in Data-to-document Generation
 
 **RotoWire-modified**
 
-ACL2019_Learning to Select, Track, and Generate for Data-to-Text  ((Iso et al)
+ACL2019_Learning to Select, Track, and Generate for Data-to-Text  ((Iso et al)  [Paper](https://www.aclweb.org/anthology/P19-1202.pdf)  
 
-[Paper](https://www.aclweb.org/anthology/P19-1202.pdf)   [Rotowire-modified](https://github.com/aistairc/rotowire-modified)  [code](https://github.com/aistairc/sports-reporter)
+[Rotowire-modified](https://github.com/aistairc/rotowire-modified)  [code](https://github.com/aistairc/sports-reporter)
 
 #### 2、WikiBio
 
-EMNLP2016_Neural text generation from structured data with application to the biography domain
+EMNLP2016_Neural text generation from structured data with application to the biography domain[Paper](https://arxiv.org/pdf/1603.07771.pdf) 
 
-[Paper](https://arxiv.org/pdf/1603.07771.pdf)  [WikiBio下载](https://github.com/DavidGrangier/wikipedia-biography-dataset)
+[WikiBio下载](https://github.com/DavidGrangier/wikipedia-biography-dataset)
 
 输入：维基百科的infobox
 
@@ -34,9 +34,9 @@ EMNLP2016_Neural text generation from structured data with application to the bi
 
 #### 3、E2E
 
-SIGDIAL2017_The E2E Dataset-- New Challenges For End-to-End Generation
+SIGDIAL2017_The E2E Dataset-- New Challenges For End-to-End Generation  [Paper](https://arxiv.org/pdf/1706.09254.pdf) 
 
-[Paper](https://arxiv.org/pdf/1706.09254.pdf)   [E2E 下载](http://www.macs.hw.ac.uk/InteractionLab/E2E/)
+[E2E 下载](http://www.macs.hw.ac.uk/InteractionLab/E2E/)
 
 输入：餐馆信息的表示
 
